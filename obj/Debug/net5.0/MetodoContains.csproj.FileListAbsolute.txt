@@ -1,0 +1,16 @@
+C:\Projetos\AMS\1ano\SEMESTRE2\ManipulacaoString\MetodoContains\bin\Debug\net5.0\MetodoContains.exe
+C:\Projetos\AMS\1ano\SEMESTRE2\ManipulacaoString\MetodoContains\bin\Debug\net5.0\MetodoContains.deps.json
+C:\Projetos\AMS\1ano\SEMESTRE2\ManipulacaoString\MetodoContains\bin\Debug\net5.0\MetodoContains.runtimeconfig.json
+C:\Projetos\AMS\1ano\SEMESTRE2\ManipulacaoString\MetodoContains\bin\Debug\net5.0\MetodoContains.runtimeconfig.dev.json
+C:\Projetos\AMS\1ano\SEMESTRE2\ManipulacaoString\MetodoContains\bin\Debug\net5.0\MetodoContains.dll
+C:\Projetos\AMS\1ano\SEMESTRE2\ManipulacaoString\MetodoContains\bin\Debug\net5.0\ref\MetodoContains.dll
+C:\Projetos\AMS\1ano\SEMESTRE2\ManipulacaoString\MetodoContains\bin\Debug\net5.0\MetodoContains.pdb
+C:\Projetos\AMS\1ano\SEMESTRE2\ManipulacaoString\MetodoContains\obj\Debug\net5.0\MetodoContains.csproj.AssemblyReference.cache
+C:\Projetos\AMS\1ano\SEMESTRE2\ManipulacaoString\MetodoContains\obj\Debug\net5.0\MetodoContains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AMS\1ano\SEMESTRE2\ManipulacaoString\MetodoContains\obj\Debug\net5.0\MetodoContains.AssemblyInfoInputs.cache
+C:\Projetos\AMS\1ano\SEMESTRE2\ManipulacaoString\MetodoContains\obj\Debug\net5.0\MetodoContains.AssemblyInfo.cs
+C:\Projetos\AMS\1ano\SEMESTRE2\ManipulacaoString\MetodoContains\obj\Debug\net5.0\MetodoContains.csproj.CoreCompileInputs.cache
+C:\Projetos\AMS\1ano\SEMESTRE2\ManipulacaoString\MetodoContains\obj\Debug\net5.0\MetodoContains.dll
+C:\Projetos\AMS\1ano\SEMESTRE2\ManipulacaoString\MetodoContains\obj\Debug\net5.0\ref\MetodoContains.dll
+C:\Projetos\AMS\1ano\SEMESTRE2\ManipulacaoString\MetodoContains\obj\Debug\net5.0\MetodoContains.pdb
+C:\Projetos\AMS\1ano\SEMESTRE2\ManipulacaoString\MetodoContains\obj\Debug\net5.0\MetodoContains.genruntimeconfig.cache
